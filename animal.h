@@ -14,8 +14,7 @@ using namespace std;
 
 class Animal{
 	private:
-
-	string sound;
+		string sound;
 		string genre;
 		int age;
 		int weight;
